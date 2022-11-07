@@ -1,0 +1,39 @@
+.ant-table-tbody>tr>td {
+    text-align: center;
+}
+
+.ant-table-thead>tr>th {
+    text-align: center;
+}
+
+.ticket-search {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+}
+
+.ticket-search__btn {
+    padding: 10px 20px;
+    background-color: rgb(144, 144, 253);
+    color: white;
+    cursor: pointer;
+}
+
+.ticket-add__btn {
+    padding: 10px 20px;
+    background-color: rgb(144, 144, 253);
+    color: white;
+    cursor: pointer;
+    margin: auto;   
+}
+
+.ant-col-4 {
+    margin: auto;
+}
+
+a {
+    color: white;
+    
+}

@@ -1,0 +1,46 @@
+#components-layout-demo-side .logo {
+  height: 32px;
+  margin: 16px;
+  background-color: red;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.home {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.home-ticket {
+  width: 600px;
+}
+
+.home .home-ticket .home-ticket-chart {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.home .home-ticket .home-date-ticket {
+  margin-top: 30px;
+}
+
+.home-ticket-content {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.home-movie {
+  width: 600px;
+}
+
+.home .home-movie .home-date-movie {
+  margin-top: 30px;
+}
+
+.home .home-movie .home-movie-chart {
+  width: 100%;
+  margin-top: 20px;
+}

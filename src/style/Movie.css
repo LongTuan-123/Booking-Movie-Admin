@@ -1,0 +1,44 @@
+.movie-table .ant-table-tbody > tr > td{
+    text-align:center;
+}
+.movie-table .ant-table-thead > tr > th {
+    text-align:center;
+}
+.movies-search{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+    padding:10px;
+}
+
+.movies-search__btn{
+    padding: 10px 20px;
+    background-color: rgb(144, 144, 253);
+    color: white;
+    cursor: pointer;
+}
+.movies-add__btn{
+    padding: 10px 20px;
+    background-color: rgb(144, 144, 253);
+    color: white;
+    cursor: pointer;
+    padding:10px;
+    margin:auto;
+
+}
+.ant-col-2 {
+    margin:auto;
+}
+
+.movie-list__img{
+    width: 150px;
+    height: 200px;
+    margin: auto;
+}
+
+.movie-list__img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
